@@ -27,7 +27,7 @@ export default function Dashboard({ onLogout }: DashboardProps) {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <GraduationCap className="h-8 w-8 text-blue-600" />
-              <span className="text-2xl font-bold text-gray-800">KS Platform</span>
+              <span className="text-2xl font-bold text-gray-800">Mirzo Ulug'bek nomidagi O'zbekiston Milliy universitetining Jizzax filiali</span>
             </div>
 
             <div className="hidden md:flex items-center space-x-4">
